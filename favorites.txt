@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Meat
 Chicken
 Adobo
+=======
+Spiderman
+OnePiece
+Naruto
+>>>>>>> movies
